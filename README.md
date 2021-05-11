@@ -15,3 +15,10 @@ cd Bad-Apple-OS
 nasm -f bin boot.asm -o boot.bin
 qemu-system-x86_64 boot.bin
 ```
+
+# To Make A Iso
+```
+git clone https://github.com/AMTitan/Bad-Apple-OS
+cd Bad-Apple-OS
+nasm -f bin boot.asm -o boot.iso
+```
