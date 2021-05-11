@@ -12,6 +12,7 @@ just learning from https://www.youtube.com/channel/UCuWLGQB4WRBKvW1C26zA2og
 ```
 git clone https://github.com/AMTitan/Bad-Apple-OS
 cd Bad-Apple-OS
+nasm -f bin stage2.asm -o stage2.bin
 nasm -f bin boot.asm -o boot.bin
 qemu-system-x86_64 boot.bin
 ```
@@ -20,5 +21,6 @@ qemu-system-x86_64 boot.bin
 ```
 git clone https://github.com/AMTitan/Bad-Apple-OS
 cd Bad-Apple-OS
+nasm -f bin stage2.asm -o stage2.bin
 nasm -f bin boot.asm -o boot.iso
 ```
