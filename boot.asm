@@ -16,7 +16,7 @@ start:              ; start label from where our code starts
 
 
 
-	hello_world db  'Hello World!!',13,0
+	hello_world db  'Hello World!!2',13,0
 
 
 print_string:
