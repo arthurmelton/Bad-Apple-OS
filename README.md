@@ -1,7 +1,7 @@
 # Bad-Apple-OS
 First time os (I am going to die)
 
-just learning from https://www.youtube.com/channel/UCuWLGQB4WRBKvW1C26zA2og
+just learning from youtube. (I have like not written anything I just copied from others and tweaked what I understood)
 
 # Dependencies
 - `git`
