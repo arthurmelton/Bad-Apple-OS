@@ -12,7 +12,7 @@ bpb_disk_info:
     numSectors:        dw    2880
     mediaType:         db    0xf0
     numFATsectors:     dw    9
-    sectorsPerTrack:   dw    18
+    sectorsPerTrack:   dw    180
     numHeads:          dw    2
     numHiddenSectors:  dd    0
     numSectorsHuge:    dd    0
